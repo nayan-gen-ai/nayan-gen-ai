@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nayan Pawar
 
-### 🧠 Generative AI Engineer | LLM Systems | RAG | AI Agents
+## 🧠 Generative AI Engineer | LLM Systems | RAG | AI Agents
 
 I build **production-grade GenAI systems** using LLMs, RAG pipelines, and multi-agent architectures.
 
@@ -82,3 +82,9 @@ I build **production-grade GenAI systems** using LLMs, RAG pipelines, and multi-
 ## ⚡ Fun Fact
 
 > I don’t just “use AI tools” — I build systems where **AI replaces entire workflows.**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,tailwind,js,mongodb,expressjs,react,nodejs,typescript,nextjs,prisma,docker,python,tensorflow,aws" />
+  </a>
+</p>
