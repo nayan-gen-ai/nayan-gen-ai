@@ -30,7 +30,7 @@ I build **production-grade GenAI systems** using LLMs, RAG pipelines, and multi-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,linux,git,postgres,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,linux,git,postgres,mongodb,tensorflow,pytorch" />
   </a>
 </p>
 ---
